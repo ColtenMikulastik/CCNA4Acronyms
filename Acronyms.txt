@@ -1,0 +1,212 @@
+NIC: Network Interface Card 
+LAN: Local Access Network 
+WAN: Wide Access Network 
+ISP: Internet Service Provider 
+Qos: Quality of Service 
+BYOD: Bring Your Own Device 
+WISP: Wireless Internet Service Provider 
+OS: Operating System 
+CLI: Command Line Interface 
+GUI: Graphical User Interface 
+SSH: Secure Shell 
+SVI: Switch Virtual Interface 
+HTTP: Hyper Text Transfer Protocol 
+SMTP: Simple Mail Transfer Protocol 
+POP: Post Office Protocol, e-mail 
+TCP: Transmission Control Protocol 
+IMAP: Internet Message Access Protocol 
+FTP: File Transfer Protocol 
+TFTP: trivial File Transfer Protocol 
+UDP: User Datagram Protocol 
+NAT: Network Address Translation 
+ICMP: Internet Control Message Protocol 
+OSPF: Open Shortest Path First 
+EIGRP: Enhanced Interior Routing Protocol 
+ARP: Adress Resolution Protocol 
+DHCP: Dynamic Host Configuration Protocol 
+PDU: Protocol Data Unit 
+EMI: Electro Magnetic Interference 
+RFI: Radio Frequency Interference 
+UTP: Unshielded Twisted Pair 
+STP: Shielded Twisted Pair 
+SMF: Single Mode Fiber 
+MMF: Multi Mode Fiber 
+IEEE 802.15: Institute of Electronic Electrical Engineers: wireless personal 
+IEEE 802.16: Institute of Electronic and Electrical Engineers: wireless metropolitan 
+AP: Access Point 
+LLC: Logical Link Control 
+MAC: Media Access Control 
+IEEE: Institute of Electronic and Electrical Engineers 
+ISO: Internation Organization for Saudization 
+CSMA/CD: Carrer Sense Multiple Access Collision Detection 
+CSMA/CA: Carrer Sense Multiple Access Collision Avoidance 
+CRC: Cyclic Redundancy Check 
+OUI: Organizationally Unique Identifier 
+ARP: Address Resolution Protocol 
+ND: Neighbor Discovery 
+IPv4: Internet Protocol version 4 
+IPv6: Internet Protocol version 6 
+MTU: Maximum Transmission Unit 
+DS: Differentiated Services 
+TTL 
+ICMP 
+NAT 
+ARP 
+ICMPv6 ND 
+ICMPv6 NS message 
+ICMPv6 NA message 
+ICMPv6 RS message 
+ICMPv6 RA message 
+VLSM 
+LLA 
+MSS 
+MTU 
+SYN 
+ACK 
+FIN 
+URL 
+DNS 
+FQDNs 
+DHCP 
+DHCPDISCOVER 
+DHCPOFFER 
+DHCPREQUEST 
+DHCPACK 
+FTP 
+SMB 
+AAA 
+DMZ 
+DBD 
+LSR 
+LSU 
+LSAck 
+SPF 
+DR 
+BDR 
+DROTHER 
+DoS 
+DDoS 
+CIA 
+IPS 
+IDS 
+AES 
+SEAL 
+RC 
+DSS 
+DSA 
+RSA 
+ACL 
+ACE 
+NAT 
+PAT 
+SDH 
+SONET 
+DWDM 
+DTE 
+DCE 
+CPE 
+ATM 
+CO 
+Metro E 
+EoMPLS 
+VPLS 
+CE router 
+PE router 
+P router 
+DSLAM 
+PPPoE 
+DOCSIS 
+ASA firewall 
+GRE 
+MPLS 
+VTI 
+SA 
+AH 
+ESP 
+FIFO 
+WFQ 
+CBWFQ 
+LLQ 
+SNMP 
+NMS 
+CDP 
+LLDP 
+NMS tools 
+SaaS 
+PaaS 
+IaaS 
+ITaaS 
+ACI 
+ANP 
+APIC 
+XML 
+JSON 
+YAML 
+API 
+SOAP 
+REST 
+XML-RPC 
+URI 
+URN 
+DNA 
+CAM 
+MAC  
+VLAN 
+IEEE 802.1Q 
+DTP 
+STP 
+STA 
+PVST 
+PVST+ 
+Rapid PVST+ 
+MSTP 
+MST 
+BID 
+BPDU 
+RSTP 
+PAgP 
+LACP 
+SLAAC 
+GUA 
+LLA: Link Local Address 
+DAD: Duplicate Address Detection 
+NS: Neighbor Solicitation 
+NA: Neighbor Advertisement 
+NGFW: Next Generation Fire-Wall 
+NGIPS: Next Generation Intrusion Prevention System 
+AMP: Advanced Malware Protection 
+AAA: Authentication, Authorization and Accounting 
+ISE: Identity Services Engine 
+HIPS: Host-based Intrusion Prevention System 
+ESA: Email Security Appliance 
+WSA: Web Security Appliance 
+DAI: Direct Internet Access 
+IPSG: IP (Internet Protocol) Source Guard 
+RADIUS: Remote Authentication Dial-In User: Remote access Authentication 
+TACACS+: Terminal Access Controller Access-Control System Plus 
+LAP: Lightweight Access Point 
+LWAPP: Lightweight Access Point Protocol 
+WLAC: ???Something like Wireless Local Access Controller 
+BSS: Business Support System 
+ESS: Embedded Service Switch 
+CAPWAP protocol: Control and Provisioning of Wireless Access Points 
+DTLS: Datagram Transport Layer Security 
+DSSS: Direct sequence spread spectrum: WAP stuff 
+FHSS: frequency-hopping spread spectrum: WAP stuff 
+OFDM: Orthogonal frequency-division multiplexing: WAP stuff 
+WEP: Wired Equivalent Privacy: Wi-Fi Encryption, not very good 
+WPA: Wi-Fi Protected Access: good Wi-Fi Encryption, version 2 even better 
+TKIP: Temporal Key Integrity Protocol: addition to WEP 
+AES: Advanced Encryption Standard: Encryption type 
+SSID: Service Set Identifier: Wi-Fi Stuff 
+CEF: Cisco Express Forwarding: Cut-through switching stuff 
+RIPv2: Routing Information Protocol Version 2: Routing Protocol 
+OSPFv2: Open Shortest Path First Version 2: Routing Protocol 
+EIGRP: Enhanced Interior Gateway Routing Protocol 
+EIGRP for IPv6: Enhanced Interior Gateway Routing Protocol for IPv6 
+OSPFv3: Open Shortest Path First Version 3 
+IS-IS: Intermediate System to Intermediate System 
+IS-IS for IPv6: Intermediate System to Intermediate System for IPv6 
+BGP: Border Gateway Protocol 
+BGP-MP: Border Gateway Protocol Multi-Protocol q
+EGP: Exterior Gateway Protocol  
