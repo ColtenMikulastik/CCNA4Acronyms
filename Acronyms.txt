@@ -1,4 +1,3 @@
-Colten Mikulastik
 NIC: Network Interface Card  
 LAN: Local Access Network  
 WAN: Wide Access Network  
