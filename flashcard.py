@@ -8,9 +8,10 @@ with open("Acronyms.txt", 'r') as file:
         line = line.split(':')
         Acro = line[0]
         Def = line[1]
+        print("-------------------")
         print(Acro)
-        input("press space when ready to see definition")
+        input("press ENTER when ready to see definition")
         print(Def)
-        
+        print("-------------------")       
 
 
