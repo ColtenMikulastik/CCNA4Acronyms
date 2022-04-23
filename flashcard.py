@@ -10,8 +10,12 @@ with open("Acronyms.txt", 'r') as file:
         Def = line[1]
         print("-------------------")
         print(Acro)
-        input("press ENTER when ready to see definition")
-        print(Def)
-        print("-------------------")       
+        check = input("press ENTER when ready to see definition or press q + enter to quit")
+        if check == 'q':
+            break
+        else:
+            print("DEFINITION:")
+            print(Def)
+            print("-------------------")       
 
 
