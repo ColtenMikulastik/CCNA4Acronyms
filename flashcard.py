@@ -17,12 +17,15 @@ with open("Acronyms.txt", 'r') as file:
         answer_key[Acro] = Def
 
 for key, val in answer_key.items():
-    print("============")
-    print(key + ": " + val)
     # a break so that you can actually read it
     info = input("press q to quit, else press ENTER")
     if info == 'q':
         break
     else:
         pass
+    print("============")
+    print(key)
+    # a break so that you can actually read it
+    input()
+    print(val)
 
